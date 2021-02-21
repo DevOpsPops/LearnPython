@@ -1,4 +1,4 @@
-#Math
+#Arithmatic Operators
     #addition
     2+3
     #substraction
