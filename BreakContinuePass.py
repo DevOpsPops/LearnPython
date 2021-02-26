@@ -40,10 +40,19 @@ print("Done")
 
 
 #Pass example
-#Pass is used a place holder or to nullify a condtion
+#Pass is used a place holder or to nullify a function
 
 for i in r:
     if (1%2!=0):
         pass
     else:
         print(i)
+
+#another usecase for pass
+#pass allows the rest of the code to run without getting hung up on the null function
+
+def fun():
+    pass
+
+a = 5
+print(a)
